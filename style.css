@@ -1,0 +1,10 @@
+body{
+    background-color: aquamarine;
+    font-size: large;
+}
+
+#chamra,#resuultes{
+   border: 2px dotted crimson;
+   width: 351px;
+   height: 301px;
+}
